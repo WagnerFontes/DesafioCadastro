@@ -20,8 +20,8 @@ Cenario: Deve preencher um e-mail invalido
 	Entao deve apesenta a mensagem de alerta, X endereco de e-mail invalido
 	
 Cenario: registrar a conta sem preenche o formulario 
-  Dado que o cliente esteja na tela de Autenticacao
-  E preecheu um email valido
+  Dado que o cliente esteja na tela de Autenticacao  
+  E preecheu um email valido 		
   Quando clicar no botao, Crie a sua conta aqui
   Entao deve aparecer o fomulario para preecher seas informacoes perssoais 
 	Quando ele clicar no botao Registro sem preecher seus dados 
